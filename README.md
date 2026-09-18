@@ -1,7 +1,6 @@
-# 💻 Kaleem Ullah Moon | Frontend Developer (React.js) & Flutter Engineer
-
+# 💻 Kaleem Ullah Moon | Full Stack Developer
 Hi there! 👋  
-I’m **Kaleem Ullah Moon**, a **Frontend Developer with strong React.js experience**, currently working extensively with **Flutter** to build cross-platform mobile applications. I focus on creating clean, performant, and user-friendly products where **UI quality, usability, and maintainable code** truly matter 🚀
+I’m **Kaleem Ullah Moon**, a **Full Stack Developer with strong React.js experience**, currently working extensively with **Flutter** to build cross-platform mobile applications. I focus on creating clean, performant, and user-friendly products where **UI quality, usability, and maintainable code** truly matter 🚀
 
 ---
 
@@ -68,9 +67,9 @@ I’m **Kaleem Ullah Moon**, a **Frontend Developer with strong React.js experie
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/hamadzaheer6  
-- 📧 Email: hammadzaheer35@gmail.com  
-- 📞 Phone: +92 334 4020881  
+- 💼 LinkedIn: https://www.linkedin.com/in/kaleemullahmoon  
+- 📧 Email: kaleemullahmoon1@gmail.com  
+- 📞 Phone: +44 7435 835694  
 
 ---
 
